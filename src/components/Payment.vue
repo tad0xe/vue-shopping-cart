@@ -22,7 +22,7 @@ export default {
   data() {
     return {
       publishableKey:
-        "pk_test_51KGqWkHCcyZvTrDrTmAbtZkngRWbP0FCvV3bgZnz8GXuleqD1fo1lRa5seDD3qKsk0irYLumaH3SeI5cILED3pwq00NR023dNZ",
+        "pk_test_51KGqWkHCcyZZ",
       charge: null,
       message: null
     };
